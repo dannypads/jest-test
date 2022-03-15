@@ -1,0 +1,11 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "jest test",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
